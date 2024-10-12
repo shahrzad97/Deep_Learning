@@ -7,7 +7,6 @@ import torch
 torch.cuda.set_device(0)
 
 # data settings
-# data settings
 dataset_path = "/teamspace/studios/this_studio/BTech_Dataset_transformed"  
 class_names = ["01", "02", "03"]  
 
